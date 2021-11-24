@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append('../preverb')
+sys.path.append('../scripts/preverb')
 from word import Word
 
 PREVERB_COUNT, TRUE_POS, FALSE_POS, TRUE_NEG, FALSE_NEG = 0, 1, 2, 3, 4
