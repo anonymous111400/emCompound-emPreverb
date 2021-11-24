@@ -1317,9 +1317,9 @@ ló	ló	[/N][Nom]	ló
 vezetékét	vezeték	[/N][Poss.3Sg][Acc]	vezeték		
 ,	,	[Punct]	,		
 és	és	[/Cnj]	és		
-viszi	visz	[/V][Prs.Def.3Sg]	visz		
+viszi	elvisz	[/Prev][/V][Prs.Def.3Sg]	el#visz	sep	21
 magával	maga	[/N|Pro][3Sg][Ins]	maga		
-el	el	[/Prev]	el		
+el		[/Prev]		conn	21
 a	a	[/Det|Art.Def]	a		
 fák	fa	[/N][Pl][Nom]	fa		
 között	között	[/Post]	között		
@@ -1340,8 +1340,8 @@ törököt	török	[/Adj][Acc]	török
 A	a	[/Det|Art.Def]	a		
 fügekínálás	fügekínálás	[/N][Nom]	füge#kínálás		
 nem	nem	[/Adv]	nem		
-oldotta	felold	[/Prev][/V][Pst.Def.3Sg]	fel#old	sep	21
-fel		[/Prev]		conn	21
+oldotta	felold	[/Prev][/V][Pst.Def.3Sg]	fel#old	sep	22
+fel		[/Prev]		conn	22
 őket	ők	[/N|Pro][3Pl][Acc]	ők		
 a	a	[/Det|Art.Def]	a		
 rémület	rémület	[/N][Nom]	rémület		
@@ -1353,8 +1353,8 @@ többször	sok	[/Num][_Comp/Num][_Mlt-Iter/Adv]	sok
 hallották	hall	[/V][Pst.Def.3Pl]	hall		
 otthon	otthon	[/Adv]	otthon		
 a	a	[/Det|Art.Def]	a		
-Vigyen	elvisz	[/Prev][/V][Sbjv.NDef.3Sg]	el#visz	sep	22
-el		[/Prev]		conn	22
+Vigyen	elvisz	[/Prev][/V][Sbjv.NDef.3Sg]	el#visz	sep	23
+el		[/Prev]		conn	23
 a	a	[/Det|Art.Def]	a		
 török	török	[/Adj][Nom]	török		
 !	!	[Punct]	!		
@@ -1427,8 +1427,8 @@ ha	ha	[/Cnj]	ha
 a	a	[/Det|Art.Def]	a		
 szürke	szürke	[/Adj][Nom]	szürke		
 nélkül	nélkül	[/Post]	nélkül		
-tér	hazatér	[/Prev][/V][Prs.NDef.3Sg]	haza#tér	sep	23
-haza		[/Prev]		conn	23
+tér	hazatér	[/Prev][/V][Prs.NDef.3Sg]	haza#tér	sep	24
+haza		[/Prev]		conn	24
 ?	?	[Punct]	?		
 
 A	a	[/Det|Art.Def]	a		
@@ -1785,9 +1785,9 @@ felé	felé	[/Post]	felé
 .	.	[Punct]	.		
 
 Gergő	Gergő	[/N][Nom]	Gergő		
-le		[/Prev]		conn	24
+le		[/Prev]		conn	25
 akar	akar	[/V][Prs.NDef.3Sg]	akar		
-ereszkedni	leereszkedik	[/Prev][/V][Inf]	le#ereszkedik	sep	24
+ereszkedni	leereszkedik	[/Prev][/V][Inf]	le#ereszkedik	sep	25
 a	a	[/Det|Art.Def]	a		
 lóról	ló	[/N][Del]	ló		
 .	.	[Punct]	.		
@@ -1871,9 +1871,9 @@ mingyárt	mingyárt	[/V][Prs.NDef.3Sg]	mingyárt
 megeszlek	megeszik	[/Prev][/V][Prs.1Sg›2]	meg#eszik	pfx	
 ,	,	[Punct]	,		
 ha	ha	[/Cnj]	ha		
-el		[/Prev]		conn	25
+el		[/Prev]		conn	26
 nem	nem	[/Adv]	nem		
-hallgatsz	elhallgat	[/Prev][/V][Prs.NDef.2Sg]	el#hallgat	sep	25
+hallgatsz	elhallgat	[/Prev][/V][Prs.NDef.2Sg]	el#hallgat	sep	26
 !	!	[Punct]	!		
 
 Ham	ham	[/N][Nom]	ham		
@@ -1945,13 +1945,13 @@ forgatva	forgat	[/V][_AdvPtcp/Adv]	forgat
 sírja	sír	[/N][Poss.3Sg][Nom]	sír		
 :	:	[Punct]	:		
 -	-	[Punct]	-		
-Haza	haza	[/Prev]	haza		
-megyek	megy	[/V][Prs.NDef.1Sg]	megy		
+Haza		[/Prev]		conn	27
+megyek	hazamegy	[/Prev][/V][Prs.NDef.1Sg]	haza#megy	sep	27
 !	!	[Punct]	!		
 
-Haza		[/Prev]		conn	26
+Haza		[/Prev]		conn	28
 akarok	akar	[/V][Prs.NDef.1Sg]	akar		
-menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	26
+menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	28
 !	!	[Punct]	!		
 
 -	-	[Punct]	-		
@@ -1961,8 +1961,8 @@ rongy	rongy	[/N][Nom]	rongy
 fattyú	fattyú	[/N][Nom]	fattyú		
 !	!	[Punct]	!		
 -	-	[Punct]	-		
-mordul	rámordul	[/Prev][/V][Prs.NDef.3Sg]	rá#mordul	sep	27
-rá		[/Prev]		conn	27
+mordul	rámordul	[/Prev][/V][Prs.NDef.3Sg]	rá#mordul	sep	29
+rá		[/Prev]		conn	29
 a	a	[/Det|Art.Def]	a		
 török	török	[/Adj][Nom]	török		
 ,	,	[Punct]	,		
@@ -2238,8 +2238,8 @@ mint	mint	[/Cnj]	mint
 mikor	mikor	[/Adv|Pro|Int]	mikor		
 valaki	valaki	[/N|Pro][Nom]	valaki		
 legyet	légy	[/N][Acc]	légy		
-űz	elűz	[/Prev][/V][Prs.NDef.3Sg]	el#űz	sep	28
-el		[/Prev]		conn	28
+űz	elűz	[/Prev][/V][Prs.NDef.3Sg]	el#űz	sep	30
+el		[/Prev]		conn	30
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
@@ -2275,16 +2275,16 @@ Azután	azután	[/Adv]	azután
 egy	egy	[/Det|Art.NDef]	egy		
 szennyes	szennyes	[/Adj][Nom]	szennyes		
 zsákot	zsák	[/N][Acc]	zsák		
-old	megold	[/Prev][/V][Prs.NDef.3Sg]	meg#old	sep	29
-meg		[/Prev]		conn	29
+old	megold	[/Prev][/V][Prs.NDef.3Sg]	meg#old	sep	31
+meg		[/Prev]		conn	31
 az	az	[/Det|Art.Def]	az		
 egyik	egyik	[/Adj|Pro][Nom]	egyik		
 janicsár	janicsár	[/N][Nom]	janicsár		
 és	és	[/Cnj]	és		
 mindenféle	mindenféle	[/N][Nom]	mindenféle		
 ruhát	ruha	[/N][Acc]	ruha		
-húzkod	kihúzkod	[/Prev][/V][Prs.NDef.3Sg]	ki#húzkod	sep	30
-ki		[/Prev]		conn	30
+húzkod	kihúzkod	[/Prev][/V][Prs.NDef.3Sg]	ki#húzkod	sep	32
+ki		[/Prev]		conn	32
 belőle	ő	[/N|Pro][Ela][3Sg]	ő		
 .	.	[Punct]	.		
 
@@ -2331,8 +2331,8 @@ szekérre	szekér	[/N][Subl]	szekér
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
-Öltöztesd	felöltöztet	[/Prev][/V][Sbjv.Def.2Sg]	fel#öltöztet	sep	31
-fel		[/Prev]		conn	31
+Öltöztesd	felöltöztet	[/Prev][/V][Sbjv.Def.2Sg]	fel#öltöztet	sep	33
+fel		[/Prev]		conn	33
 őket	ők	[/N|Pro][3Pl][Acc]	ők		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
@@ -2407,9 +2407,9 @@ lesztek	lesz	[/V][Prs.NDef.2Pl]	lesz
 -	-	[Punct]	-		
 De	de	[/Cnj]	de		
 én	én	[/N|Pro][1Sg][Nom]	én		
-haza		[/Prev]		conn	32
+haza		[/Prev]		conn	34
 akarok	akar	[/V][Prs.NDef.1Sg]	akar		
-menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	32
+menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	34
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
 sírja	sír	[/V][Prs.Def.3Sg]	sír		
@@ -2457,8 +2457,8 @@ falubeli	falubeli	[/Adj][Nom]	falubeli
 kutyák	kutya	[/N][Pl][Nom]	kutya		
 mérges	mérges	[/Adj][Nom]	mérges		
 csaholással	csaholás	[/N][Ins]	csaholás		
-ugrálnak	körülugrál	[/Prev][/V][Prs.NDef.3Pl]	körül#ugrál	sep	33
-körül		[/Prev]		conn	33
+ugrálnak	körülugrál	[/Prev][/V][Prs.NDef.3Pl]	körül#ugrál	sep	35
+körül		[/Prev]		conn	35
 egy	egy	[/Det|Art.NDef]	egy		
 fehérszakálú	fehérszakálú	[/Adj][Nom]	fehérszakálú		
 és	és	[/Cnj]	és		
@@ -2468,9 +2468,9 @@ zarán	zár	[/N][Poss.3Sg][Supe]	zár
 dokot	dok	[/N][Acc]	dok		
 .	.	[Punct]	.		
 
-Le		[/Prev]		conn	34
+Le		[/Prev]		conn	36
 is	is	[/Adv]	is		
-húznák	lehúz	[/Prev][/V][Cond.Def.3Pl]	le#húz	sep	34
+húznák	lehúz	[/Prev][/V][Cond.Def.3Pl]	le#húz	sep	36
 róla	ő	[/N|Pro][Del][3Sg]	ő		
 a	a	[/Det|Art.Def]	a		
 csuhát	csuha	[/N][Acc]	csuha		
@@ -2528,9 +2528,9 @@ ostromtól	ostrom	[/N][Abl]	ostrom
 
 Azonban	azonban	[/Cnj]	azonban		
 akik	aki	[/N|Pro|Rel][Pl][Nom]	aki		
-elő		[/Prev]		conn	35
+elő		[/Prev]		conn	37
 is	is	[/Adv]	is		
-jöttek	előjön	[/Prev][/V][Pst.NDef.3Pl]	elő#jön	sep	35
+jöttek	előjön	[/Prev][/V][Pst.NDef.3Pl]	elő#jön	sep	37
 a	a	[/Det|Art.Def]	a		
 nagy	nagy	[/Adj][Nom]	nagy		
 ugatásra	ugatás	[/N][Subl]	ugatás		
@@ -2633,8 +2633,8 @@ az	az	[/Det|Art.Def]	az
 .	.	[Punct]	.		
 
 Sietve	siet	[/V][_AdvPtcp/Adv]	siet		
-tárja	kitár	[/Prev][/V][Prs.Def.3Sg]	ki#tár	sep	36
-ki		[/Prev]		conn	36
+tárja	kitár	[/Prev][/V][Prs.Def.3Sg]	ki#tár	sep	38
+ki		[/Prev]		conn	38
 a	a	[/Det|Art.Def]	a		
 kapu	kapu	[/N][Nom]	kapu		
 másik	másik	[/Adj|Pro][Nom]	másik		
@@ -2796,8 +2796,8 @@ kantárát	kantár	[/N][Poss.3Sg][Acc]	kantár
 az	az	[/Det|Art.Def]	az		
 egyik	egyik	[/Adj|Pro][Nom]	egyik		
 közvitéznek	közvitéz	[/N][Dat]	köz#vitéz		
-dobta	odadob	[/Prev][/V][Pst.Def.3Sg]	oda#dob	sep	37
-oda		[/Prev]		conn	37
+dobta	odadob	[/Prev][/V][Pst.Def.3Sg]	oda#dob	sep	39
+oda		[/Prev]		conn	39
 .	.	[Punct]	.		
 
 Cecey	Cecey	[/N][Nom]	Cecey		
@@ -3042,8 +3042,8 @@ Istennek	isten	[/N][Dat]	isten
 .	.	[Punct]	.		
 
 No	no	[/Inj-Utt]	no		
-gyere	bejön	[/Prev][/V][Sbjv.NDef.2Sg]	be#jön	sep	38
-be		[/Prev]		conn	38
+gyere	bejön	[/Prev][/V][Sbjv.NDef.2Sg]	be#jön	sep	40
+be		[/Prev]		conn	40
 a	a	[/Det|Art.Def]	a		
 hűvösre	hűvös	[/Adj][Subl]	hűvös		
 ,	,	[Punct]	,		
@@ -3095,8 +3095,8 @@ cseléddel	cseléd	[/N][Ins]	cseléd
 A	a	[/Det|Art.Def]	a		
 másik	másik	[/Adj|Pro][Nom]	másik		
 cseléd	cseléd	[/N][Nom]	cseléd		
-meg	meg	[/Prev]	meg		
-nyitotta	nyit	[/V][Pst.Def.3Sg]	nyit		
+meg		[/Prev]		conn	41
+nyitotta	megnyit	[/Prev][/V][Pst.Def.3Sg]	meg#nyit	sep	41
 már	már	[/Adv]	már		
 a	a	[/Det|Art.Def]	a		
 pinceajtót	pinceajtó	[/N][Acc]	pince#ajtó		
@@ -3107,8 +3107,8 @@ Dobó	Dobó	[/N][Nom]	Dobó
 Pista	Pista	[/N][Nom]	Pista		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-mutatta	bemutat	[/Prev][/V][Pst.Def.3Sg]	be#mutat	sep	39
-be		[/Prev]		conn	39
+mutatta	bemutat	[/Prev][/V][Pst.Def.3Sg]	be#mutat	sep	42
+be		[/Prev]		conn	42
 Cecey	Cecey	[/N][Nom]	Cecey		
 az	az	[/Det|Art.Def]	az		
 ifjút	ifjú	[/N][Acc]	ifjú		
@@ -3131,8 +3131,8 @@ katonáknak	katona	[/N][Pl][Dat]	katona
 Dobó	Dobó	[/N][Nom]	Dobó		
 piros	piros	[/Adj][Nom]	piros		
 zsebkendőt	zsebkendő	[/N][Acc]	zseb#kendő		
-vont	elővon	[/Prev][/V][Pst.NDef.3Sg]	elő#von	sep	40
-elő		[/Prev]		conn	40
+vont	elővon	[/Prev][/V][Pst.NDef.3Sg]	elő#von	sep	43
+elő		[/Prev]		conn	43
 a	a	[/Det|Art.Def]	a		
 zekéjéből	zeke	[/N][Poss.3Sg][Ela]	zeke		
 ,	,	[Punct]	,		
@@ -3156,9 +3156,9 @@ az	az	[/Det|Art.Def]	az
 arcára	arc	[/N][Poss.3Sg][Subl]	arc		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-meg		[/Prev]		conn	41
+meg		[/Prev]		conn	44
 kell	kell	[/V][Prs.NDef.3Sg]	kell		
-kérdeznem	megkérdez	[/Prev][/V][Inf.1Sg]	meg#kérdez	sep	41
+kérdeznem	megkérdez	[/Prev][/V][Inf.1Sg]	meg#kérdez	sep	44
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
 nincs	nincs	[/V][Prs.NDef.3Sg]	nincs		
@@ -3358,8 +3358,8 @@ mögötte	mögött	[/Post][3Sg]	mögött
 Attól	az	[/Det|Pro][Abl]	az		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-mosolygott	elmosolyog	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyog	sep	42
-el		[/Prev]		conn	42
+mosolygott	elmosolyog	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyog	sep	45
+el		[/Prev]		conn	45
 a	a	[/Det|Art.Def]	a		
 zarándok	zarándok	[/N][Nom]	zarándok		
 ,	,	[Punct]	,		
@@ -3416,8 +3416,8 @@ gvárdián	gvárdián	[/N][Nom]	gvárdián
 aki	aki	[/N|Pro|Rel][Nom]	aki		
 atyámfia	atyjafia	[/N][Poss.1Sg][Nom]	atyjafia		
 ,	,	[Punct]	,		
-csapjon	belecsap	[/Prev][/V][Sbjv.NDef.3Sg]	bele#csap	sep	43
-bele		[/Prev]		conn	43
+csapjon	belecsap	[/Prev][/V][Sbjv.NDef.3Sg]	bele#csap	sep	46
+bele		[/Prev]		conn	46
 a	a	[/Det|Art.Def]	a		
 mennydörgős	mennydörgős	[/Adj][Nom]	menny#dörgős		
 istennyila	istennyíl	[/N][Poss.3Sg][Nom]	isten#nyíl		
@@ -3445,8 +3445,8 @@ Azt	az	[/Det|Pro][Acc]	az
 is	is	[/Adv]	is		
 tudom	tud	[/V][Prs.Def.1Sg]	tud		
 ,	,	[Punct]	,		
-süljenek	megsül	[/Prev][/V][Sbjv.NDef.3Pl]	meg#sül	sep	44
-meg		[/Prev]		conn	44
+süljenek	megsül	[/Prev][/V][Sbjv.NDef.3Pl]	meg#sül	sep	47
+meg		[/Prev]		conn	47
 a	a	[/Det|Art.Def]	a		
 gazdájával	gazda	[/N][Poss.3Sg][Ins]	gazda		
 együtt	együtt	[/Post|(Ins)]	együtt		
@@ -3603,9 +3603,9 @@ apró	apró	[/Adj][Nom]	apró
 
 Én	én	[/N|Pro][1Sg][Nom]	én		
 ugyan	ugyan	[/Adv]	ugyan		
-el		[/Prev]		conn	45
+el		[/Prev]		conn	48
 nem	nem	[/Adv]	nem		
-olvasom	elolvas	[/Prev][/V][Prs.Def.1Sg]	el#olvas	sep	45
+olvasom	elolvas	[/Prev][/V][Prs.Def.1Sg]	el#olvas	sep	48
 .	.	[Punct]	.		
 
 Küldjetek	küld	[/V][Sbjv.NDef.2Pl]	küld		
@@ -3669,8 +3669,8 @@ jutott	jutott	[/Adj][Nom]	jutott
 ember	ember	[/N][Nom]	ember		
 csendes	csendes	[/Adj][Nom]	csendes		
 örömével	öröm	[/N][Poss.3Sg][Ins]	öröm		
-húzott	egyethúz	[/Prev][/V][Pst.NDef.3Sg]	egyet#húz	sep	46
-egyet		[/Prev]		conn	46
+húzott	egyethúz	[/Prev][/V][Pst.NDef.3Sg]	egyet#húz	sep	49
+egyet		[/Prev]		conn	49
 az	az	[/Det|Art.Def]	az		
 eléje	elé	[/Post][3Sg]	elé		
 tett	tett	[/Adj][Nom]	tett		
@@ -3913,8 +3913,8 @@ a	a	[/Det|Art.Def]	a
 földhöz	föld	[/N][All]	föld		
 tapadt	tapad	[/V][Pst.NDef.3Sg]	tapad		
 jobbágyság	jobbágyság	[/N][Nom]	jobbágyság		
-marad	megmarad	[/Prev][/V][Prs.NDef.3Sg]	meg#marad	sep	47
-meg		[/Prev]		conn	47
+marad	megmarad	[/Prev][/V][Prs.NDef.3Sg]	meg#marad	sep	50
+meg		[/Prev]		conn	50
 a	a	[/Det|Art.Def]	a		
 helyén	hely	[/N][Poss.3Sg][Supe]	hely		
 :	:	[Punct]	:		
@@ -3958,20 +3958,20 @@ Beszéltem	beszél	[/V][Pst.NDef.1Sg]	beszél
 őfelségével	őfelsége	[/N|Pro][Poss.3Sg][Ins]	őfelsége		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
-térítse	megtérít	[/Prev][/V][Sbjv.Def.3Sg]	meg#térít	sep	48
-meg		[/Prev]		conn	48
+térítse	megtérít	[/Prev][/V][Sbjv.Def.3Sg]	meg#térít	sep	51
+meg		[/Prev]		conn	51
 a	a	[/Det|Art.Def]	a		
 károtokat	kár	[/N][Poss.2Pl][Acc]	kár		
 ...	...	[Punct]	...		
 
 -	-	[Punct]	-		
 Ne	ne	[/Adv]	ne		
-olvasd	továbbolvas	[/Prev][/V][Sbjv.Def.2Sg]	tovább#olvas	sep	49
-tovább		[/Prev]		conn	49
+olvasd	továbbolvas	[/Prev][/V][Sbjv.Def.2Sg]	tovább#olvas	sep	52
+tovább		[/Prev]		conn	52
 !	!	[Punct]	!		
 -	-	[Punct]	-		
-pattan	felpattan	[/Prev][/V][Prs.NDef.3Sg]	fel#pattan	sep	50
-fel		[/Prev]		conn	50
+pattan	felpattan	[/Prev][/V][Prs.NDef.3Sg]	fel#pattan	sep	53
+fel		[/Prev]		conn	53
 Cecey	Cecey	[/N][Nom]	Cecey		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
@@ -4002,12 +4002,12 @@ hogy	hogy	[/Cnj]	hogy
 mink	mi	[/N|Pro|Int][Poss.1Pl][Nom]	mi		
 Szapolyaitól	Szapolyai	[/N][Abl]	Szapolyai		
 nem	nem	[/Adv]	nem		
-fogadunk	elfogad	[/Prev][/V][Prs.NDef.1Pl]	el#fogad	sep	51
-el		[/Prev]		conn	51
+fogadunk	elfogad	[/Prev][/V][Prs.NDef.1Pl]	el#fogad	sep	54
+el		[/Prev]		conn	54
 semmit	semmi	[/N|Pro][Acc]	semmi		
 :	:	[Punct]	:		
-hallgassa	végighallgat	[/Prev][/V][Sbjv.Def.3Sg]	végig#hallgat	sep	52
-végig		[/Prev]		conn	52
+hallgassa	végighallgat	[/Prev][/V][Sbjv.Def.3Sg]	végig#hallgat	sep	55
+végig		[/Prev]		conn	55
 kegyelmed	kegyelem	[/N][Poss.2Sg][Nom]	kegyelem		
 a	a	[/Det|Art.Def]	a		
 levelet	levél	[/N][Acc]	levél		
@@ -4029,8 +4029,8 @@ A	a	[/Det|Art.Def]	a
 király	király	[/N][Nom]	király		
 ugyan	ugyan	[/Adv]	ugyan		
 nem	nem	[/Adv]	nem		
-adhatja	visszaad	[/Prev][/V][_Mod/V][Prs.Def.3Sg]	vissza#ad	sep	53
-vissza		[/Prev]		conn	53
+adhatja	visszaad	[/Prev][/V][_Mod/V][Prs.Def.3Sg]	vissza#ad	sep	56
+vissza		[/Prev]		conn	56
 Sásodot	Sásod	[/N][Acc]	Sásod		
 ,	,	[Punct]	,		
 de	de	[/Cnj]	de		
@@ -4042,11 +4042,11 @@ közelében	közel	[/N][Poss.3Sg][Ine]	közel
 ...	...	[Punct]	...		
 
 -	-	[Punct]	-		
-Hagyd	abbahagy	[/Prev][/V][Sbjv.Def.2Sg]	abba#hagy	sep	54
-abba		[/Prev]		conn	54
+Hagyd	abbahagy	[/Prev][/V][Sbjv.Def.2Sg]	abba#hagy	sep	57
+abba		[/Prev]		conn	57
 ,	,	[Punct]	,		
-hagyd	abbahagy	[/Prev][/V][Sbjv.Def.2Sg]	abba#hagy	sep	55
-abba		[/Prev]		conn	55
+hagyd	abbahagy	[/Prev][/V][Sbjv.Def.2Sg]	abba#hagy	sep	58
+abba		[/Prev]		conn	58
 ,	,	[Punct]	,		
 Bálint	Bálint	[/N][Nom]	Bálint		
 !	!	[Punct]	!		
@@ -4240,8 +4240,8 @@ haragos	haragos	[/Adj][Nom]	haragos
 peckesen	peckes	[/N][Supe]	peckes		
 :	:	[Punct]	:		
 -	-	[Punct]	-		
-Mondd	megmond	[/Prev][/V][Sbjv.Def.2Sg]	meg#mond	sep	56
-meg		[/Prev]		conn	56
+Mondd	megmond	[/Prev][/V][Sbjv.Def.2Sg]	meg#mond	sep	59
+meg		[/Prev]		conn	59
 a	a	[/Det|Art.Def]	a		
 barátnak	barát	[/N][Dat]	barát		
 ,	,	[Punct]	,		
@@ -4297,8 +4297,8 @@ botjával	bot	[/N][Poss.3Sg][Ins]	bot
 mintha	mintha	[/Cnj]	mintha		
 láthatatlan	láthatatlan	[/Adj][Nom]	láthatatlan		
 kutyákat	kutya	[/N][Pl][Acc]	kutya		
-verne	elver	[/Prev][/V][Cond.NDef.3Sg]	el#ver	sep	57
-el		[/Prev]		conn	57
+verne	elver	[/Prev][/V][Cond.NDef.3Sg]	el#ver	sep	60
+el		[/Prev]		conn	60
 ,	,	[Punct]	,		
 és	és	[/Cnj]	és		
 haragosan	haragos	[/Adj][_Manner/Adv]	haragos		
@@ -4471,8 +4471,8 @@ magyar	magyar	[/Adj][Nom]	magyar
 nevet	név	[/N][Acc]	név		
 !	!	[Punct]	!		
 -	-	[Punct]	-		
-mordult	visszamordul	[/Prev][/V][Pst.NDef.3Sg]	vissza#mordul	sep	58
-vissza		[/Prev]		conn	58
+mordult	visszamordul	[/Prev][/V][Pst.NDef.3Sg]	vissza#mordul	sep	61
+vissza		[/Prev]		conn	61
 a	a	[/Det|Art.Def]	a		
 pap	pap	[/N][Nom]	pap		
 .	.	[Punct]	.		
@@ -4493,8 +4493,8 @@ meg	meg	[/Cnj]	meg
 németnek	német	[/Adj][Dat]	német		
 !	!	[Punct]	!		
 -	-	[Punct]	-		
-bőszült	felbőszül	[/Prev][/V][Pst.NDef.3Sg]	fel#bőszül	sep	59
-fel		[/Prev]		conn	59
+bőszült	felbőszül	[/Prev][/V][Pst.NDef.3Sg]	fel#bőszül	sep	62
+fel		[/Prev]		conn	62
 a	a	[/Det|Art.Def]	a		
 pap	pap	[/N][Nom]	pap		
 .	.	[Punct]	.		
@@ -4539,9 +4539,9 @@ már	már	[/Adv]	már
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
 mikor	mikor	[/Adv|Pro|Int]	mikor		
-húzza	húz	[/V][Prs.Def.3Sg]	húz		
+húzza	széjjelhúz	[/Prev][/V][Prs.Def.3Sg]	széjjel#húz	sep	63
 őket	ők	[/N|Pro][3Pl][Acc]	ők		
-széjjel	széjjel	[/Prev]	széjjel		
+széjjel		[/Prev]		conn	63
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
@@ -4550,8 +4550,8 @@ veszekedjenek	veszekszik	[/V][Sbjv.NDef.3Pl]	veszekszik
 ,	,	[Punct]	,		
 az	az	[/Det|Art.Def]	az		
 Isten	isten	[/N][Nom]	isten		
-áldja	megáld	[/Prev][/V][Prs.Def.3Sg]	meg#áld	sep	60
-meg		[/Prev]		conn	60
+áldja	megáld	[/Prev][/V][Prs.Def.3Sg]	meg#áld	sep	64
+meg		[/Prev]		conn	64
 kegyelmeteket	kegyelem	[/N][Poss.2Pl][Acc]	kegyelem		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
@@ -4561,8 +4561,8 @@ nyugtalanul	nyugtalan	[/Adj][_Manner/Adv]	nyugtalan
 -	-	[Punct]	-		
 vagy	vagy	[/Cnj]	vagy		
 inkább	inkább	[/Adv]	inkább		
-vesszenek	összeveszt	[/Prev][/V][Sbjv.NDef.3Pl]	össze#veszt	sep	61
-össze		[/Prev]		conn	61
+vesszenek	összeveszt	[/Prev][/V][Sbjv.NDef.3Pl]	össze#veszt	sep	65
+össze		[/Prev]		conn	65
 a	a	[/Det|Art.Def]	a		
 törökkel	török	[/Adj][Ins]	török		
 .	.	[Punct]	.		
@@ -4590,8 +4590,8 @@ a	a	[/Det|Art.Def]	a
 papnak	pap	[/N][Dat]	pap		
 a	a	[/Det|Art.Def]	a		
 nyelvét	nyelv	[/N][Poss.3Sg][Acc]	nyelv		
-vágatta	levág	[/Prev][/V][_Caus/V][Pst.Def.3Sg]	le#vág	sep	62
-le		[/Prev]		conn	62
+vágatta	levág	[/Prev][/V][_Caus/V][Pst.Def.3Sg]	le#vág	sep	66
+le		[/Prev]		conn	66
 Szapolyai	Szapolyai	[/N][Nom]	Szapolyai		
 ,	,	[Punct]	,		
 nekem	én	[/N|Pro][Dat][1Sg]	én		
@@ -4688,9 +4688,9 @@ a	a	[/Det|Art.Def]	a
 két	két	[/Num|Attr][Nom]	két		
 ember	ember	[/N][Nom]	ember		
 megint	megint	[/Adv]	megint		
-össze		[/Prev]		conn	63
+össze		[/Prev]		conn	67
 ne	ne	[/Adv]	ne		
-horgoljon	összehorgol	[/Prev][/V][Sbjv.NDef.3Sg]	össze#horgol	sep	63
+horgoljon	összehorgol	[/Prev][/V][Sbjv.NDef.3Sg]	össze#horgol	sep	67
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
@@ -4737,9 +4737,9 @@ töröknek	török	[/Adj][Dat]	török
 ?	?	[Punct]	?		
 
 -	-	[Punct]	-		
-El		[/Prev]		conn	64
+El		[/Prev]		conn	68
 is	is	[/Adv]	is		
-adta	elad	[/Prev][/V][Pst.Def.3Sg]	el#ad	sep	64
+adta	elad	[/Prev][/V][Pst.Def.3Sg]	el#ad	sep	68
 már	már	[/Adv]	már		
 ,	,	[Punct]	,		
 öcsém	öcs	[/N][Poss.1Sg][Nom]	öcs		
@@ -4860,13 +4860,13 @@ ideje	idő	[/N][Poss.3Sg][Nom]	idő
 
 -	-	[Punct]	-		
 Nem	nem	[/Adv]	nem		
-értem	ráért	[/Prev][/V][Prs.Def.1Sg]	rá#ért	sep	65
-rá		[/Prev]		conn	65
+értem	ráért	[/Prev][/V][Prs.Def.1Sg]	rá#ért	sep	69
+rá		[/Prev]		conn	69
 eddig	eddig	[/Adv|Pro]	eddig		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-mosolyodott	elmosolyodik	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyodik	sep	66
-el		[/Prev]		conn	66
+mosolyodott	elmosolyodik	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyodik	sep	70
+el		[/Prev]		conn	70
 Dobó	Dobó	[/N][Nom]	Dobó		
 .	.	[Punct]	.		
 
@@ -4904,8 +4904,8 @@ tán	tán	[/Adv]	tán
 hogy	hogy	[/Cnj]	hogy		
 én	én	[/N|Pro][1Sg][Nom]	én		
 táncolásban	táncolás	[/N][Ine]	táncolás		
-sántultam	megsántul	[/Prev][/V][Pst.Def.1Sg]	meg#sántul	sep	67
-meg		[/Prev]		conn	67
+sántultam	megsántul	[/Prev][/V][Pst.Def.1Sg]	meg#sántul	sep	71
+meg		[/Prev]		conn	71
 mind	mind	[/N|Pro][Nom]	mind		
 a	a	[/Det|Art.Def]	a		
 két	két	[/Num|Attr][Nom]	két		
@@ -5158,8 +5158,8 @@ pedig	pedig	[/Cnj]	pedig
 ,	,	[Punct]	,		
 mink	mi	[/N|Pro|Int][Poss.1Pl][Nom]	mi		
 együtt	együtt	[/Post|(Ins)]	együtt		
-tollasodtunk	feltollasodik	[/Prev][/V][Pst.NDef.1Pl]	fel#tollasodik	sep	68
-fel		[/Prev]		conn	68
+tollasodtunk	feltollasodik	[/Prev][/V][Pst.NDef.1Pl]	fel#tollasodik	sep	72
+fel		[/Prev]		conn	72
 ,	,	[Punct]	,		
 együtt	együtt	[/Adv]	együtt		
 éltünk	él	[/V][Pst.NDef.1Pl]	él		
@@ -5173,12 +5173,12 @@ tunk	t	[/N][Poss.1Pl][Nom]	t
 -	-	[Punct]	-		
 Együtt	együtt	[/Adv]	együtt		
 is	is	[/Adv]	is		
-halunk	meghal	[/Prev][/V][Prs.NDef.1Pl]	meg#hal	sep	69
-meg		[/Prev]		conn	69
+halunk	meghal	[/Prev][/V][Prs.NDef.1Pl]	meg#hal	sep	73
+meg		[/Prev]		conn	73
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-fejezte	befejez	[/Prev][/V][Pst.Def.3Sg]	be#fejez	sep	70
-be		[/Prev]		conn	70
+fejezte	befejez	[/Prev][/V][Pst.Def.3Sg]	be#fejez	sep	74
+be		[/Prev]		conn	74
 a	a	[/Det|Art.Def]	a		
 pap	pap	[/N][Nom]	pap		
 bólogatva	bólogat	[/V][_AdvPtcp/Adv]	bólogat		
@@ -5332,8 +5332,8 @@ Az	az	[/Det|Pro][Nom]	az
 alatt	alatt	[/Post]	alatt		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
-vinné	elvisz	[/Prev][/V][Cond.Def.3Sg]	el#visz	sep	71
-el		[/Prev]		conn	71
+vinné	elvisz	[/Prev][/V][Cond.Def.3Sg]	el#visz	sep	75
+el		[/Prev]		conn	75
 az	az	[/Det|Art.Def]	az		
 ördög	ördög	[/N][Nom]	ördög		
 az	az	[/Det|Art.Def]	az		
@@ -5343,8 +5343,8 @@ segítséget	segítség	[/N][Acc]	segítség
 
 Mindig	mindig	[/Adv]	mindig		
 rabolva	rabol	[/V][_AdvPtcp/Adv]	rabol		
-térnek	hazatér	[/Prev][/V][Prs.NDef.3Pl]	haza#tér	sep	72
-haza		[/Prev]		conn	72
+térnek	hazatér	[/Prev][/V][Prs.NDef.3Pl]	haza#tér	sep	76
+haza		[/Prev]		conn	76
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
@@ -5404,8 +5404,8 @@ Jártam	jár	[/V][Pst.Def.1Sg]	jár
 ottan	ottan	[/Adv|Pro]	ottan		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-szólalt	megszólal	[/Prev][/V][Pst.NDef.3Sg]	meg#szólal	sep	73
-meg		[/Prev]		conn	73
+szólalt	megszólal	[/Prev][/V][Pst.NDef.3Sg]	meg#szólal	sep	77
+meg		[/Prev]		conn	77
 a	a	[/Det|Art.Def]	a		
 pap	pap	[/N][Nom]	pap		
 ,	,	[Punct]	,		
@@ -5418,8 +5418,8 @@ palánk	palánk	[/N][Nom]	palánk
 .	.	[Punct]	.		
 
 Nem	nem	[/Adv]	nem		
-adták	megad	[/Prev][/V][Pst.Def.3Pl]	meg#ad	sep	74
-meg		[/Prev]		conn	74
+adták	megad	[/Prev][/V][Pst.Def.3Pl]	meg#ad	sep	78
+meg		[/Prev]		conn	78
 a	a	[/Det|Art.Def]	a		
 várat	vár	[/N][Acc]	vár		
 ?	?	[Punct]	?		
@@ -5553,9 +5553,9 @@ a	a	[/Det|Art.Def]	a
 biztosíték	biztosíték	[/N][Nom]	biztosíték		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
-vissza		[/Prev]		conn	75
+vissza		[/Prev]		conn	79
 is	is	[/Adv]	is		
-térsz	visszatér	[/Prev][/V][Prs.NDef.2Sg]	vissza#tér	sep	75
+térsz	visszatér	[/Prev][/V][Prs.NDef.2Sg]	vissza#tér	sep	79
 ?	?	[Punct]	?		
 
 -	-	[Punct]	-		
@@ -5784,8 +5784,8 @@ játszott	játszott	[/Adj][Nom]	játszott
 Szaladj	szalad	[/V][Sbjv.NDef.2Sg]	szalad		
 csak	csak	[/Adv]	csak		
 ,	,	[Punct]	,		
-keresd	megkeres	[/Prev][/V][Sbjv.Def.2Sg]	meg#keres	sep	76
-meg		[/Prev]		conn	76
+keresd	megkeres	[/Prev][/V][Sbjv.Def.2Sg]	meg#keres	sep	80
+meg		[/Prev]		conn	80
 !	!	[Punct]	!		
 
 -	-	[Punct]	-		
@@ -5795,15 +5795,15 @@ kis	kis	[/Adj|Attr][Nom]	kis
 leányom	leány	[/N][Poss.1Sg][Nom]	leány		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-mosolyodott	elmosolyodik	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyodik	sep	77
-el		[/Prev]		conn	77
+mosolyodott	elmosolyodik	[/Prev][/V][Pst.NDef.3Sg]	el#mosolyodik	sep	81
+el		[/Prev]		conn	81
 Cecey	Cecey	[/N][Nom]	Cecey		
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
 Vénségemre	vénség	[/N][Poss.1Sg][Subl]	vénség		
-ajándékozott	megajándékoz	[/Prev][/V][Pst.NDef.3Sg]	meg#ajándékoz	sep	78
-meg		[/Prev]		conn	78
+ajándékozott	megajándékoz	[/Prev][/V][Pst.NDef.3Sg]	meg#ajándékoz	sep	82
+meg		[/Prev]		conn	82
 az	az	[/Det|Art.Def]	az		
 Isten	isten	[/N][Nom]	isten		
 vele	ő	[/N|Pro][Ins][3Sg]	ő		
@@ -5862,7 +5862,7 @@ beszélgetésben	beszélgetés	[/N][Ine]	beszélgetés
 ,	,	[Punct]	,		
 levélolvasásban	levélolvasás	[/N][Ine]	levél#olvasás		
 mindenki	mindenki	[/N|Pro][Nom]	mindenki		
-megfeled	megfeled	[/Prev][/V][Prs.NDef.3Sg]	meg#feled	pfx	
+megfeled	megfeled	[/V][Prs.NDef.3Sg]	meg#feled		
 �	�	[/V][Inf]	�		
 kezett	kezik	[/V][Pst.NDef.3Sg]	kezik		
 a	a	[/Det|Art.Def]	a		
@@ -5980,8 +5980,8 @@ délután	délután	[/Adv]	délután
 .	.	[Punct]	.		
 
 Ki	ki	[/Prev]	ki		
-ment	elmegy	[/Prev][/V][Pst.NDef.3Sg]	el#megy	sep	79
-el		[/Prev]		conn	79
+ment	elmegy	[/Prev][/V][Pst.NDef.3Sg]	el#megy	sep	83
+el		[/Prev]		conn	83
 a	a	[/Det|Art.Def]	a		
 kert	kert	[/N][Nom]	kert		
 mögött	mögött	[/Post]	mögött		
@@ -6466,8 +6466,8 @@ egy	egy	[/Det|Art.NDef]	egy
 fasíp	fasíp	[/N][Nom]	fa#síp		
 piszkos	piszkos	[/Adj][Nom]	piszkos		
 tölcsére	tölcsér	[/N][Poss.3Sg][Nom]	tölcsér		
-áll	kiáll	[/Prev][/V][Prs.NDef.3Sg]	ki#áll	sep	80
-ki		[/Prev]		conn	80
+áll	kiáll	[/Prev][/V][Prs.NDef.3Sg]	ki#áll	sep	84
+ki		[/Prev]		conn	84
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
@@ -6547,8 +6547,8 @@ a	a	[/Det|Art.Def]	a
 törökök	török	[/Adj][Pl][Nom]	török		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
-adja	előad	[/Prev][/V][Sbjv.Def.3Sg]	elő#ad	sep	81
-elő		[/Prev]		conn	81
+adja	előad	[/Prev][/V][Sbjv.Def.3Sg]	elő#ad	sep	85
+elő		[/Prev]		conn	85
 a	a	[/Det|Art.Def]	a		
 temploma	templom	[/N][Poss.3Sg][Nom]	templom		
 kincseit	kincs	[/N][Pl.Poss.3Sg][Acc]	kincs		
@@ -6600,10 +6600,10 @@ a	a	[/Det|Art.Def]	a
 pap	pap	[/N][Nom]	pap		
 a	a	[/Det|Art.Def]	a		
 paraszttal	paraszt	[/N][Ins]	paraszt		
-össze		[/Prev]		conn	82
+össze		[/Prev]		conn	86
 is	is	[/Adv]	is		
-van	összevan	[/Prev][/V][Prs.NDef.3Sg]	össze#van	sep	82
-láncolva	láncol	[/V][_AdvPtcp/Adv]	láncol		
+van	van	[/V][Prs.NDef.3Sg]	van		
+láncolva	összeláncol	[/Prev][/V][_AdvPtcp/Adv]	össze#láncol	sep	86
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
@@ -6611,8 +6611,8 @@ legény	legény	[/N][Nom]	legény
 a	a	[/Det|Art.Def]	a		
 bilincsét	bilincs	[/N][Poss.3Sg][Acc]	bilincs		
 rongyokkal	rongy	[/N][Pl][Ins]	rongy		
-bélelte	körülbélel	[/Prev][/V][Pst.Def.3Sg]	körül#bélel	sep	83
-körül		[/Prev]		conn	83
+bélelte	körülbélel	[/Prev][/V][Pst.Def.3Sg]	körül#bélel	sep	87
+körül		[/Prev]		conn	87
 a	a	[/Det|Art.Def]	a		
 bokája	boka	[/N][Poss.3Sg][Nom]	boka		
 fölött	fölött	[/Post]	fölött		
@@ -6625,8 +6625,8 @@ véresek	véres	[/Adj][Pl][Nom]	véres
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
-Álljunk	megáll	[/Prev][/V][Sbjv.NDef.1Pl]	meg#áll	sep	84
-meg		[/Prev]		conn	84
+Álljunk	megáll	[/Prev][/V][Sbjv.NDef.1Pl]	meg#áll	sep	88
+meg		[/Prev]		conn	88
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
 könyörgött	könyörög	[/V][Pst.NDef.3Sg]	könyörög		
@@ -6635,8 +6635,8 @@ olykor	olykor	[/Adv]	olykor
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
 hadd	hadd	[/Adv]	hadd		
-igazítsam	megigazít	[/Prev][/V][Sbjv.Def.1Sg]	meg#igazít	sep	85
-meg		[/Prev]		conn	85
+igazítsam	megigazít	[/Prev][/V][Sbjv.Def.1Sg]	meg#igazít	sep	89
+meg		[/Prev]		conn	89
 a	a	[/Det|Art.Def]	a		
 bilincsemet	bilincs	[/N][Poss.1Sg][Acc]	bilincs		
 .	.	[Punct]	.		
@@ -6644,9 +6644,9 @@ bilincsemet	bilincs	[/N][Poss.1Sg][Acc]	bilincs
 A	a	[/Det|Art.Def]	a		
 janicsárok	janicsár	[/N][Pl][Nom]	janicsár		
 azonban	azonban	[/Cnj]	azonban		
-rá		[/Prev]		conn	86
+rá		[/Prev]		conn	90
 se	se	[/Adv]	se		
-hederítettek	ráhederít	[/Prev][/V][Pst.NDef.3Pl]	rá#hederít	sep	86
+hederítettek	ráhederít	[/Prev][/V][Pst.NDef.3Pl]	rá#hederít	sep	90
 .	.	[Punct]	.		
 
 Törökül	török	[/Adj][_Manner/Adv]	török		
@@ -6787,9 +6787,9 @@ fakadt	fakad	[/V][Pst.NDef.3Sg]	fakad
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
-Haza		[/Prev]		conn	87
+Haza		[/Prev]		conn	91
 akarok	akar	[/V][Prs.NDef.1Sg]	akar		
-menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	87
+menni	hazamegy	[/Prev][/V][Inf]	haza#megy	sep	91
 !	!	[Punct]	!		
 -	-	[Punct]	-		
 bömbögte	bömbög	[/V][Pst.Def.3Sg]	bömbög		
@@ -6818,8 +6818,8 @@ lóról	ló	[/N][Del]	ló
 ,	,	[Punct]	,		
 és	és	[/Cnj]	és		
 korsót	korsó	[/N][Acc]	korsó		
-vettek	elővesz	[/Prev][/V][Pst.NDef.3Pl]	elő#vesz	sep	88
-elő		[/Prev]		conn	88
+vettek	elővesz	[/Prev][/V][Pst.NDef.3Pl]	elő#vesz	sep	92
+elő		[/Prev]		conn	92
 .	.	[Punct]	.		
 
 Mosogatták	mosogat	[/V][Pst.Def.3Pl]	mosogat		
@@ -6855,8 +6855,8 @@ nézték	néz	[/V][Pst.Def.3Pl]	néz
 
 A	a	[/Det|Art.Def]	a		
 leány	leány	[/N][Nom]	leány		
-le	le	[/Prev]	le		
-bocsátkozott	bocsátkozik	[/V][Pst.NDef.3Sg]	bocs#átkozik		
+le		[/Prev]		conn	93
+bocsátkozott	lebocsátkozik	[/Prev][/V][Pst.NDef.3Sg]	le#bocsátkozik	sep	93
 a	a	[/Det|Art.Def]	a		
 kocsiról	kocsi	[/N][Del]	kocsi		
 ,	,	[Punct]	,		
@@ -6876,8 +6876,8 @@ lábát	láb	[/N][Poss.3Sg][Acc]	láb
 ,	,	[Punct]	,		
 s	s	[/Cnj]	s		
 úgy	úgy	[/Adv|Pro]	úgy		
-tolta	visszatol	[/Prev][/V][Pst.Def.3Sg]	vissza#tol	sep	89
-vissza		[/Prev]		conn	89
+tolta	visszatol	[/Prev][/V][Pst.Def.3Sg]	vissza#tol	sep	94
+vissza		[/Prev]		conn	94
 jóságos	jóságos	[/Adj][Nom]	jóságos		
 vigyázattal	vigyázat	[/N][Ins]	vigyázat		
 a	a	[/Det|Art.Def]	a		
@@ -6885,8 +6885,8 @@ bilincseket	bilincs	[/N][Pl][Acc]	bilincs
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
-Áldjon	megáld	[/Prev][/V][Sbjv.NDef.3Sg]	meg#áld	sep	90
-meg		[/Prev]		conn	90
+Áldjon	megáld	[/Prev][/V][Sbjv.NDef.3Sg]	meg#áld	sep	95
+meg		[/Prev]		conn	95
 az	az	[/Det|Art.Def]	az		
 Isten	isten	[/N][Nom]	isten		
 ,	,	[Punct]	,		
@@ -6905,8 +6905,8 @@ Az	az	[/Det|Art.Def]	az
 ha	ha	[/Cnj]	ha		
 lehet	van	[/V][_Mod/V][Prs.NDef.3Sg]	van		
 ,	,	[Punct]	,		
-teszünk	rátesz	[/Prev][/V][Prs.NDef.1Pl]	rá#tesz	sep	91
-rá		[/Prev]		conn	91
+teszünk	rátesz	[/Prev][/V][Prs.NDef.1Pl]	rá#tesz	sep	96
+rá		[/Prev]		conn	96
 útilaput	útilapu	[/N][Acc]	útilapu		
 Gáspár	Gáspár	[/N][Nom]	Gáspár		
 .	.	[Punct]	.		
@@ -7050,8 +7050,8 @@ is	is	[/Adv]	is
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
-Ragadjon	beragad	[/Prev][/V][Sbjv.NDef.3Sg]	be#ragad	sep	92
-be		[/Prev]		conn	92
+Ragadjon	beragad	[/Prev][/V][Sbjv.NDef.3Sg]	be#ragad	sep	97
+be		[/Prev]		conn	97
 a	a	[/Det|Art.Def]	a		
 semük	sem	[/N][Poss.3Pl][Nom]	sem		
 !	!	[Punct]	!		
@@ -7110,8 +7110,8 @@ Nehéz	nehéz	[/Adj][Nom]	nehéz
 ,	,	[Punct]	,		
 vastag	vastag	[/Adj][Nom]	vastag		
 láncok	lánc	[/N][Pl][Nom]	lánc		
-csördültek	fölcsördül	[/Prev][/V][Pst.NDef.3Pl]	föl#csördül	sep	93
-föl		[/Prev]		conn	93
+csördültek	fölcsördül	[/Prev][/V][Pst.NDef.3Pl]	föl#csördül	sep	98
+föl		[/Prev]		conn	98
 vele	ő	[/N|Pro][Ins][3Sg]	ő		
 .	.	[Punct]	.		
 
@@ -7247,8 +7247,8 @@ az	az	[/Det|Art.Def]	az
 imádság	imádság	[/N][Nom]	imádság		
 végeztével	végezte	[/N][Poss.3Sg][Ins]	végezte		
 nem	nem	[/Adv]	nem		
-indította	megindít	[/Prev][/V][Pst.Def.3Sg]	meg#indít	sep	94
-meg		[/Prev]		conn	94
+indította	megindít	[/Prev][/V][Pst.Def.3Sg]	meg#indít	sep	99
+meg		[/Prev]		conn	99
 a	a	[/Det|Art.Def]	a		
 kocsikat	kocsi	[/N][Pl][Acc]	kocsi		
 .	.	[Punct]	.		
@@ -7471,8 +7471,8 @@ török	török	[/Adj][Nom]	török
 A	a	[/Det|Art.Def]	a		
 kocsis	kocsis	[/Adj][Nom]	kocsis		
 vizet	víz	[/N][Acc]	víz		
-tett	feltesz	[/Prev][/V][Pst.NDef.3Sg]	fel#tesz	sep	95
-fel		[/Prev]		conn	95
+tett	feltesz	[/Prev][/V][Pst.NDef.3Sg]	fel#tesz	sep	100
+fel		[/Prev]		conn	100
 egy	egy	[/Det|Art.NDef]	egy		
 nagy	nagy	[/Adj][Nom]	nagy		
 vaskondérban	vaskondér	[/N][Ine]	vas#kondér		
@@ -7492,8 +7492,8 @@ az	az	[/Det|Art.Def]	az
 ,	,	[Punct]	,		
 értő	értő	[/Adj][Nom]	értő		
 kézzel	kéz	[/N][Ins]	kéz		
-aprózta	beleapróz	[/Prev][/V][Pst.Def.3Sg]	bele#apróz	sep	96
-bele		[/Prev]		conn	96
+aprózta	beleapróz	[/Prev][/V][Pst.Def.3Sg]	bele#apróz	sep	101
+bele		[/Prev]		conn	101
 a	a	[/Det|Art.Def]	a		
 kondérba	kondér	[/N][Ill]	kondér		
 .	.	[Punct]	.		
@@ -7559,8 +7559,8 @@ valami	valami	[/N][Nom]	valami
 húsz	húsz	[/Num][Nom]	húsz		
 különféle	különféle	[/Adj][Nom]	különféle		
 török	török	[/Adj][Nom]	török		
-heveredett	leheveredik	[/Prev][/V][Pst.NDef.3Sg]	le#heveredik	sep	97
-le		[/Prev]		conn	97
+heveredett	leheveredik	[/Prev][/V][Pst.NDef.3Sg]	le#heveredik	sep	102
+le		[/Prev]		conn	102
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
@@ -7622,9 +7622,9 @@ gyepen	gyep	[/N][Supe]	gyep
 
 Némelyikük	némelyik	[/N|Pro][Poss.3Pl][Nom]	némelyik		
 mingyárt	mingyárt	[/V][Prs.NDef.3Sg]	mingyárt		
-el		[/Prev]		conn	98
+el		[/Prev]		conn	103
 is	is	[/Adv]	is		
-aludt	elalszik	[/Prev][/V][Pst.NDef.3Sg]	el#alszik	sep	98
+aludt	elalszik	[/Prev][/V][Pst.NDef.3Sg]	el#alszik	sep	103
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
@@ -7808,8 +7808,8 @@ IV.	IV	[/Num|Roman][_Ord/Adj][Nom][]	IV
 Egy	egy	[/Num][Nom]	egy		
 óra	óra	[/N][Nom]	óra		
 nem	nem	[/Adv]	nem		
-telt	belételik	[/Prev][/V][Pst.NDef.3Sg]	belé#telik	sep	99
-belé		[/Prev]		conn	99
+telt	belételik	[/Prev][/V][Pst.NDef.3Sg]	belé#telik	sep	104
+belé		[/Prev]		conn	104
 ,	,	[Punct]	,		
 s	s	[/Cnj]	s		
 András	András	[/N][Nom]	András		
@@ -7835,8 +7835,8 @@ emészszen	emészs	[/V][Sbjv.NDef.3Sg]	emészs
 el	el	[/Prev]	el		
 !	!	[Punct]	!		
 -	-	[Punct]	-		
-ordított	ráordít	[/Prev][/V][Pst.NDef.3Sg]	rá#ordít	sep	100
-rá		[/Prev]		conn	100
+ordított	ráordít	[/Prev][/V][Pst.NDef.3Sg]	rá#ordít	sep	105
+rá		[/Prev]		conn	105
 a	a	[/Det|Art.Def]	a		
 félszemű	félszemű	[/Adj][Nom]	fél#szemű		
 janicsár	janicsár	[/N][Nom]	janicsár		
@@ -7888,8 +7888,8 @@ a	a	[/Det|Art.Def]	a
 nyárson	nyárs	[/N][Supe]	nyárs		
 sült	sült	[/Adj][Nom]	sült		
 cobákokat	cobák	[/N][Pl][Acc]	cobák		
-osztották	megoszt	[/Prev][/V][Pst.Def.3Pl]	meg#oszt	sep	101
-meg		[/Prev]		conn	101
+osztották	megoszt	[/Prev][/V][Pst.Def.3Pl]	meg#oszt	sep	106
+meg		[/Prev]		conn	106
 maguk	maga	[/N|Pro][3Pl][Nom]	maga		
 között	között	[/Post]	között		
 .	.	[Punct]	.		
@@ -8030,8 +8030,8 @@ komor	komor	[/Adj][Nom]	komor
 akindsi	akindsi	[/Adj][Nom]	akindsi		
 kis	kis	[/Adj|Attr][Nom]	kis		
 vas-szekrényt	vas-szekrény	[/N][Acc]	vas-#szekrény		
-vett	levesz	[/Prev][/V][Pst.NDef.3Sg]	le#vesz	sep	102
-le		[/Prev]		conn	102
+vett	levesz	[/Prev][/V][Pst.NDef.3Sg]	le#vesz	sep	107
+le		[/Prev]		conn	107
 a	a	[/Det|Art.Def]	a		
 kocsiról	kocsi	[/N][Del]	kocsi		
 .	.	[Punct]	.		
@@ -8125,8 +8125,8 @@ nevetett	nevet	[/V][Pst.NDef.3Sg]	nevet
 
 Vastag	vastag	[/Adj][Nom]	vastag		
 szarvasbőr-övet	szarvasbőr-öv	[/N][Acc]	szar#vas#bőr-#öv		
-vont	elővon	[/Prev][/V][Pst.NDef.3Sg]	elő#von	sep	103
-elő		[/Prev]		conn	103
+vont	elővon	[/Prev][/V][Pst.NDef.3Sg]	elő#von	sep	108
+elő		[/Prev]		conn	108
 a	a	[/Det|Art.Def]	a		
 dolmánya	dolmány	[/N][Poss.3Sg][Nom]	dolmány		
 alól	alól	[/Post]	alól		
@@ -8175,15 +8175,15 @@ hogy	hogy	[/Cnj]	hogy
 a	a	[/Det|Art.Def]	a		
 török	török	[/Adj][Nom]	török		
 hogyan	hogyan	[/Adv|Pro|Int]	hogyan		
-húz	kihúz	[/Prev][/V][Prs.NDef.3Sg]	ki#húz	sep	104
-ki		[/Prev]		conn	104
+húz	kihúz	[/Prev][/V][Prs.NDef.3Sg]	ki#húz	sep	109
+ki		[/Prev]		conn	109
 hátul	hátul	[/Adv]	hátul		
 egy	egy	[/Det|Art.NDef]	egy		
 fapecket	fapecek	[/N][Acc]	fa#pecek		
 és	és	[/Cnj]	és		
 hogyan	hogyan	[/Adv|Pro|Int]	hogyan		
-rakosgatja	belerakosgat	[/Prev][/V][Prs.Def.3Sg]	bele#rakosgat	sep	105
-bele		[/Prev]		conn	105
+rakosgatja	belerakosgat	[/Prev][/V][Prs.Def.3Sg]	bele#rakosgat	sep	110
+bele		[/Prev]		conn	110
 egy	egy	[/Det|Art.NDef]	egy		
 kis	kis	[/Adj|Attr][Nom]	kis		
 nyíláson	nyílás	[/N][Supe]	nyílás		
@@ -8308,8 +8308,8 @@ pislogott	pislog	[/V][Pst.NDef.3Sg]	pislog
 Hát	hát	[/Adv]	hát		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
-gyóntasson	meggyóntat	[/Prev][/V][Sbjv.NDef.3Sg]	meg#gyóntat	sep	106
-meg		[/Prev]		conn	106
+gyóntasson	meggyóntat	[/Prev][/V][Sbjv.NDef.3Sg]	meg#gyóntat	sep	111
+meg		[/Prev]		conn	111
 engem	én	[/N|Pro][1Sg][Acc]	én		
 ,	,	[Punct]	,		
 arra	arra	[/Adv|Pro]	arra		
@@ -8429,9 +8429,9 @@ egyik	egyik	[/Adj|Pro][Nom]	egyik
 kését	kés	[/N][Poss.3Sg][Acc]	kés		
 ,	,	[Punct]	,		
 és	és	[/Cnj]	és		
-bele		[/Prev]		conn	107
+bele		[/Prev]		conn	112
 �	�	[/V][Inf]	�		
-szúrom	beleszúr	[/Prev][/V][Prs.Def.1Sg]	bele#szúr	sep	107
+szúrom	beleszúr	[/Prev][/V][Prs.Def.1Sg]	bele#szúr	sep	112
 !	!	[Punct]	!		
 
 Bele	bele	[/Prev]	bele		
@@ -8444,8 +8444,8 @@ kutyának	kutya	[/N][Dat]	kutya
 
 Hát	hát	[/Adv]	hát		
 csak	csak	[/Adv]	csak		
-gyóntasson	meggyóntat	[/Prev][/V][Sbjv.NDef.3Sg]	meg#gyóntat	sep	108
-meg		[/Prev]		conn	108
+gyóntasson	meggyóntat	[/Prev][/V][Sbjv.NDef.3Sg]	meg#gyóntat	sep	113
+meg		[/Prev]		conn	113
 engem	én	[/N|Pro][1Sg][Acc]	én		
 .	.	[Punct]	.		
 
@@ -8466,8 +8466,8 @@ nyugodtan	nyugodt	[/Adj][_Manner/Adv]	nyugodt
 -	-	[Punct]	-		
 én	én	[/N|Pro][1Sg][Nom]	én		
 nem	nem	[/Adv]	nem		
-gyóntatlak	meggyóntat	[/Prev][/V][Prs.1Sg›2]	meg#gyóntat	sep	109
-meg		[/Prev]		conn	109
+gyóntatlak	meggyóntat	[/Prev][/V][Prs.1Sg›2]	meg#gyóntat	sep	114
+meg		[/Prev]		conn	114
 .	.	[Punct]	.		
 
 Mert	mert	[/Cnj]	mert		
@@ -8524,8 +8524,8 @@ lelkünket	lélek	[/N][Poss.1Pl][Acc]	lélek
 
 De	de	[/Cnj]	de		
 minek	minek	[/Adv|Pro|Int]	minek		
-veszejtenéd	elveszejt	[/Prev][/V][Cond.Def.2Sg]	el#veszejt	sep	110
-el		[/Prev]		conn	110
+veszejtenéd	elveszejt	[/Prev][/V][Cond.Def.2Sg]	el#veszejt	sep	115
+el		[/Prev]		conn	115
 magadat	maga	[/N|Pro][2Sg][Acc]	maga		
 ?	?	[Punct]	?		
 
@@ -8564,8 +8564,8 @@ kezéből	kéz	[/N][Poss.3Sg][Ela]	kéz
 És	és	[/Cnj]	és		
 ha	ha	[/Cnj]	ha		
 nem	nem	[/Adv]	nem		
-veszi	kivesz	[/Prev][/V][Prs.Def.3Sg]	ki#vesz	sep	111
-ki		[/Prev]		conn	111
+veszi	kivesz	[/Prev][/V][Prs.Def.3Sg]	ki#vesz	sep	116
+ki		[/Prev]		conn	116
 ?	?	[Punct]	?		
 
 -	-	[Punct]	-		
@@ -8587,16 +8587,16 @@ ott	ott	[/Adv|Pro]	ott
 a	a	[/Det|Art.Def]	a		
 török	török	[/Adj][Nom]	török		
 földön	föld	[/N][Supe]	föld		
-ér	elér	[/Prev][/V][Prs.NDef.3Sg]	el#ér	sep	112
-el		[/Prev]		conn	112
+ér	elér	[/Prev][/V][Prs.NDef.3Sg]	el#ér	sep	117
+el		[/Prev]		conn	117
 az	az	[/Det|Art.Def]	az		
 élet	élet	[/N][Nom]	élet		
 szerencséje	szerencse	[/N][Poss.3Sg][Nom]	szerencse		
 .	.	[Punct]	.		
 
 Rabláncon	rablánc	[/N][Supe]	rab#lánc		
-megy	odamegy	[/Prev][/V][Prs.NDef.3Sg]	oda#megy	sep	113
-oda		[/Prev]		conn	113
+megy	odamegy	[/Prev][/V][Prs.NDef.3Sg]	oda#megy	sep	118
+oda		[/Prev]		conn	118
 ,	,	[Punct]	,		
 és	és	[/Cnj]	és		
 úrrá	úr	[/N][Transl]	úr		
@@ -8955,8 +8955,8 @@ megszabadulniok	megszabadul	[/Prev][/V][Inf.3Pl*]	meg#szabadul	pfx
 Sehogyan	sehogyan	[/Adv|Pro]	sehogyan		
 ,	,	[Punct]	,		
 -	-	[Punct]	-		
-szólalt	megszólal	[/Prev][/V][Pst.NDef.3Sg]	meg#szólal	sep	114
-meg		[/Prev]		conn	114
+szólalt	megszólal	[/Prev][/V][Pst.NDef.3Sg]	meg#szólal	sep	119
+meg		[/Prev]		conn	119
 egyszer	egyszer	[/Adv]	egyszer		
 a	a	[/Det|Art.Def]	a		
 nagyfejű	nagyfejű	[/Adj][Nom]	nagy#fejű		
@@ -8991,8 +8991,8 @@ rabságot	rabság	[/N][Acc]	rabság
 
 Tíz	tíz	[/Num][Nom]	tíz		
 esztendőm	esztendő	[/N][Poss.1Sg][Nom]	esztendő		
-veszett	beléveszik	[/Prev][/V][Pst.NDef.3Sg]	belé#veszik	sep	115
-belé		[/Prev]		conn	115
+veszett	beléveszik	[/Prev][/V][Pst.NDef.3Sg]	belé#veszik	sep	120
+belé		[/Prev]		conn	120
 .	.	[Punct]	.		
 
 -	-	[Punct]	-		
@@ -9007,8 +9007,8 @@ eresztettek	ereszt	[/V][Pst.NDef.3Pl]	ereszt
 -	-	[Punct]	-		
 Hát	hát	[/Inj-Utt]	hát		
 hogyan	hogyan	[/Adv|Pro|Int]	hogyan		
-szabadult	megszabadul	[/Prev][/V][Pst.NDef.3Sg]	meg#szabadul	sep	116
-meg		[/Prev]		conn	116
+szabadult	megszabadul	[/Prev][/V][Pst.NDef.3Sg]	meg#szabadul	sep	121
+meg		[/Prev]		conn	121
 ?	?	[Punct]	?		
 
 -	-	[Punct]	-		
@@ -9030,8 +9030,8 @@ Belgrádba	Belgrád	[/N][Ill]	Belgrád
 .	.	[Punct]	.		
 
 Onnan	onnan	[/Adv|Pro]	onnan		
-szöktem	megszökik	[/Prev][/V][Pst.NDef.1Sg]	meg#szökik	sep	117
-meg		[/Prev]		conn	117
+szöktem	megszökik	[/Prev][/V][Pst.NDef.1Sg]	meg#szökik	sep	122
+meg		[/Prev]		conn	122
 :	:	[Punct]	:		
 átúsztam	átúszik	[/Prev][/V][Pst.NDef.1Sg]	át#úszik	pfx	
 a	a	[/Det|Art.Def]	a		
@@ -9402,8 +9402,8 @@ malom	malom	[/N][Nom]	malom
 őröl	őröl	[/V][Prs.NDef.3Sg]	őröl		
 .	.	[Punct]	.		
 
-Apadjon	elapad	[/Prev][/V][Sbjv.NDef.3Sg]	el#apad	sep	118
-el		[/Prev]		conn	118
+Apadjon	elapad	[/Prev][/V][Sbjv.NDef.3Sg]	el#apad	sep	123
+el		[/Prev]		conn	123
 a	a	[/Det|Art.Def]	a		
 vize	víz	[/N][Poss.3Sg][Nom]	víz		
 !	!	[Punct]	!		
@@ -9548,8 +9548,8 @@ Pozárki	Pozárki	[/N][Nom]	Pozárki
 hogy	hogy	[/Cnj]	hogy		
 a	a	[/Det|Art.Def]	a		
 föld	föld	[/N][Nom]	föld		
-nyelje	elnyel	[/Prev][/V][Sbjv.Def.3Sg]	el#nyel	sep	119
-el		[/Prev]		conn	119
+nyelje	elnyel	[/Prev][/V][Sbjv.Def.3Sg]	el#nyel	sep	124
+el		[/Prev]		conn	124
 !	!	[Punct]	!		
 
 Ott	ott	[/Adv|Pro]	ott		
@@ -9599,8 +9599,8 @@ eladták	elad	[/Prev][/V][Pst.Def.3Pl]	el#ad	pfx
 .	.	[Punct]	.		
 
 Döghalál	döghalál	[/N][Nom]	dög#halál		
-eméssze	elemészt	[/Prev][/V][Sbjv.Def.3Sg]	el#emészt	sep	120
-el		[/Prev]		conn	120
+eméssze	elemészt	[/Prev][/V][Sbjv.Def.3Sg]	el#emészt	sep	125
+el		[/Prev]		conn	125
 őket	ők	[/N|Pro][3Pl][Acc]	ők		
 !	!	[Punct]	!		
 
@@ -9662,8 +9662,8 @@ ott	ott	[/Adv|Pro]	ott
 jókora	jókora	[/Adj][Nom]	jókora		
 .	.	[Punct]	.		
 
-Szakadjon	összeszakad	[/Prev][/V][Sbjv.NDef.3Sg]	össze#szakad	sep	121
-össze		[/Prev]		conn	121
+Szakadjon	összeszakad	[/Prev][/V][Sbjv.NDef.3Sg]	össze#szakad	sep	126
+össze		[/Prev]		conn	126
 !	!	[Punct]	!		
 
 -	-	[Punct]	-		
@@ -10069,8 +10069,8 @@ csem	cse	[/N][Poss.1Sg][Nom]	cse
 csegetve	cseget	[/V][_AdvPtcp/Adv]	cseget		
 itták	iszik	[/V][Pst.Def.3Pl]	iszik		
 ,	,	[Punct]	,		
-hajtogatták	lehajtogat	[/Prev][/V][Pst.Def.3Pl]	le#hajtogat	sep	122
-le		[/Prev]		conn	122
+hajtogatták	lehajtogat	[/Prev][/V][Pst.Def.3Pl]	le#hajtogat	sep	127
+le		[/Prev]		conn	127
 a	a	[/Det|Art.Def]	a		
 torkukon	torok	[/N][Poss.3Pl][Supe]	torok		
 .	.	[Punct]	.		
@@ -10103,9 +10103,9 @@ a	a	[/Det|Art.Def]	a
 török	török	[/Adj][Nom]	török		
 ,	,	[Punct]	,		
 ameddig	ameddig	[/Adv|Pro|Rel]	ameddig		
-meg		[/Prev]		conn	123
+meg		[/Prev]		conn	128
 nem	nem	[/Adv]	nem		
-hal	meghal	[/Prev][/V][Prs.NDef.3Sg]	meg#hal	sep	123
+hal	meghal	[/Prev][/V][Prs.NDef.3Sg]	meg#hal	sep	128
 !	!	[Punct]	!		
 
 -	-	[Punct]	-		
@@ -10134,8 +10134,8 @@ közöd	köz	[/N][Poss.2Sg][Nom]	köz
 benne	ő	[/N|Pro][Ine][3Sg]	ő		
 ?	?	[Punct]	?		
 -	-	[Punct]	-		
-nevetett	ránevet	[/Prev][/V][Pst.NDef.3Sg]	rá#nevet	sep	124
-rá		[/Prev]		conn	124
+nevetett	ránevet	[/Prev][/V][Pst.NDef.3Sg]	rá#nevet	sep	129
+rá		[/Prev]		conn	129
 félvállról	félvállról	[/Adv]	félvállról		
 Jumurdsák	Jumurdsák	[/V][Pst.Def.3Pl]	Jumurdsák		
 .	.	[Punct]	.		
@@ -10169,8 +10169,8 @@ fűben	fű	[/N][Ine]	fű
 és	és	[/Cnj]	és		
 az	az	[/Det|Art.Def]	az		
 álmaikban	álom	[/N][Pl.Poss.3Pl][Ine]	álom		
-keresték	továbbkeres	[/Prev][/V][Pst.Def.3Pl]	tovább#keres	sep	125
-tovább		[/Prev]		conn	125
+keresték	továbbkeres	[/Prev][/V][Pst.Def.3Pl]	tovább#keres	sep	130
+tovább		[/Prev]		conn	130
 a	a	[/Det|Art.Def]	a		
 szabadulást	szabadulás	[/N][Acc]	szabadulás		
 .	.	[Punct]	.		
@@ -10221,8 +10221,8 @@ aludtak	alszik	[/V][Pst.NDef.3Pl]	alszik
 
 Csak	csak	[/Adv]	csak		
 Gáspár	Gáspár	[/N][Nom]	Gáspár		
-sóhajtott	felsóhajt	[/Prev][/V][Pst.NDef.3Sg]	fel#sóhajt	sep	126
-fel		[/Prev]		conn	126
+sóhajtott	felsóhajt	[/Prev][/V][Pst.NDef.3Sg]	fel#sóhajt	sep	131
+fel		[/Prev]		conn	131
 mégegyszer	mégegyszer	[/N][Nom]	mégegyszer		
 álmos-panaszosan	álmos-panaszos	[/Adj][_Manner/Adv]	álmos-#panaszos		
 :	:	[Punct]	:		
@@ -10271,18 +10271,18 @@ csücskére	csücsök	[/N][Poss.3Sg][Subl]	csücsök
 
 S	s	[/Cnj]	s		
 már	már	[/Adv]	már		
-el		[/Prev]		conn	127
+el		[/Prev]		conn	132
 is	is	[/Adv]	is		
-szenderült	elszenderül	[/Prev][/V][Pst.NDef.3Sg]	el#szenderül	sep	127
+szenderült	elszenderül	[/Prev][/V][Pst.NDef.3Sg]	el#szenderül	sep	132
 volna	volna	[/V]	volna		
 ,	,	[Punct]	,		
 ha	ha	[/Cnj]	ha		
 a	a	[/Det|Art.Def]	a		
 Cecey	Cecey	[/N]	Cecey		
 névre	név	[/N][Subl]	név		
-meg		[/Prev]		conn	128
+meg		[/Prev]		conn	133
 nem	nem	[/Adv]	nem		
-nyílik	megnyílik	[/Prev][/V][Prs.NDef.3Sg]	meg#nyílik	sep	128
+nyílik	megnyílik	[/Prev][/V][Prs.NDef.3Sg]	meg#nyílik	sep	133
 magától	maga	[/N|Pro][3Sg][Abl]	maga		
 a	a	[/Det|Art.Def]	a		
 füle	fül	[/N][Poss.3Sg][Nom]	fül		
@@ -10397,9 +10397,9 @@ lenni	lesz	[/V][Inf]	lesz
 
 Ha	ha	[/Cnj]	ha		
 ugyan	ugyan	[/Adv]	ugyan		
-meg		[/Prev]		conn	129
+meg		[/Prev]		conn	134
 nem	nem	[/Adv]	nem		
-olvasztották	megolvaszt	[/Prev][/V][Pst.Def.3Pl]	meg#olvaszt	sep	129
+olvasztották	megolvaszt	[/Prev][/V][Pst.Def.3Pl]	meg#olvaszt	sep	134
 egyrészét	egyrésze	[/N][Poss.3Sg][Acc]	egyrésze		
 rudakba	rúd	[/N][Pl][Ill]	rúd		
 .	.	[Punct]	.		
@@ -10426,9 +10426,9 @@ Itt	itt	[/Adv|Pro]	itt
 
 Azért	azért	[/Adv|Pro]	azért		
 is	is	[/Adv]	is		
-vonult	vonul	[/V][Pst.NDef.3Sg]	vonul		
+vonult	félrevonul	[/Prev][/V][Pst.NDef.3Sg]	félre#vonul	sep	135
 ő	ő	[/N|Pro][3Sg][Nom]	ő		
-félre	félre	[/Prev]	félre		
+félre		[/Prev]		conn	135
 a	a	[/Det|Art.Def]	a		
 világtól	világ	[/N][Abl]	világ		
 is	is	[/Adv]	is		
@@ -10470,8 +10470,8 @@ volt	van	[/V][Pst.NDef.3Sg]	van
 
 A	a	[/Det|Art.Def]	a		
 padlása	padlás	[/N][Poss.3Sg][Nom]	padlás		
-tele	tele	[/Prev]	tele		
-van	van	[/V][Prs.NDef.3Sg]	van		
+tele		[/Prev]		conn	136
+van	televan	[/Prev][/V][Prs.NDef.3Sg]	tele#van	sep	136
 .	.	[Punct]	.		
 
 A	a	[/Det|Art.Def]	a		
