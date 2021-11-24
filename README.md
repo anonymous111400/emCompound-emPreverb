@@ -22,8 +22,8 @@ A cikk _Az igekötő-kapcsolás teljesítménye_ c. részében lévő,
 eredményekről szóló táblázatok tartalma a
 
 ```bash
-eval/general_test_results.txt
-eval/difficult_test_results.txt
+evaluation/general_test_results.txt
+evaluation/difficult_test_results.txt
 ```
 
 fájlokban található.

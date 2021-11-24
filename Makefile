@@ -37,5 +37,5 @@ clean:
 	rm -rf venv scripts/__pycache__ scripts/*/__pycache__
 
 eval:
-	cd eval && $(SHELL) evaluate.sh
+	cd evaluation && $(SHELL) evaluate.sh
 

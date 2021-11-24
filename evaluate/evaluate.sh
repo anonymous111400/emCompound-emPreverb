@@ -1,12 +1,14 @@
 #!/bin/bash
 
+SCRIPT=../scripts/preverb
+
 for filename in difficult_test general_test;
 do
     echo Evaluating ${filename}
     echo This will take a few minutes...
     cat ${filename}.txt | python3 reformat_for_tok.py |
         docker run -i mtaril/emtsv tok | python3 label_to_column.py |
-        docker run -i mtaril/emtsv morph,pos | python3 ../preverb |
+        docker run -i mtaril/emtsv morph,pos | python3 $SCRIPT |
         python3 baselines.py > ${filename}_baseline_output.tsv
 
     echo A few more minutes...
