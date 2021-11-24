@@ -312,7 +312,7 @@ illant	elillan	[/Prev][/V][Pst.NDef.3Sg]	el#illan	sep	5
 el		[/Prev]		conn	5
 hazul	hazul	[/V][Prs.NDef.3Sg]	hazul		
 �	�	[/Adj][Nom]	�		
-ról		[/N][Del]			
+ról		[/N][Del]	.		
 ,	,	[Punct]	,		
 hogy	hogy	[/Cnj]	hogy		
 senki	senki	[/N|Pro][Nom]	senki		
@@ -2802,7 +2802,7 @@ oda		[/Prev]		conn	37
 
 Cecey	Cecey	[/N][Nom]	Cecey		
 �	�	[/Num|Digit][Nom]	�		
-hez		[/N][All]			
+hez		[/N][All]	.		
 sietett	siet	[/V][Pst.NDef.3Sg]	siet		
 .	.	[Punct]	.		
 
@@ -7774,7 +7774,7 @@ rotyogott	rotyog	[/V][Pst.NDef.3Sg]	rotyog
 az	az	[/Det|Art.Def]	az		
 üstökben	üstök	[/N][Ine]	üstök		
 és	és	[/Cnj]	és		
-kon		[/N][Pl][Supe]			
+kon		[/N][Pl][Supe]	.		
 �	�	[/Adj][Nom]	�		
 dérokban	dér	[/N][Pl][Ine]	dér		
 a	a	[/Det|Art.Def]	a		
@@ -8725,7 +8725,7 @@ cigánynyelven	cigánynyelve	[/N][Supe]	cigánynyelve
 ,	,	[Punct]	,		
 Sárközi	Sárközi	[/N][Nom]	Sárközi		
 �	�	[/N][Nom]	�		
-vel		[/N][Ins]			
+vel		[/N][Ins]	.		
 ,	,	[Punct]	,		
 a	a	[/Det|Art.Def]	a		
 ragyás	ragyás	[/N][Nom]	ragyás		
@@ -10494,6 +10494,4 @@ holmi	holmi	[/N][Nom]	holmi
 -	-	[Punct]	-		
 Cecey	Cecey	[/N][Nom]	Cecey		
 ...	...	[Punct]	...		
-
-					
 
