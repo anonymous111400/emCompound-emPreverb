@@ -1,5 +1,6 @@
 
 PYTHON:=venv/bin/python
+SHELL:=/bin/bash
 
 all: install run
 
@@ -34,4 +35,7 @@ install:
 
 clean:
 	rm -rf venv scripts/__pycache__ scripts/*/__pycache__
+
+eval:
+	cd eval && $(SHELL) evaluate.sh
 
