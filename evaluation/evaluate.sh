@@ -11,7 +11,7 @@ do
         docker run -i mtaril/emtsv morph,pos | python3 $SCRIPT |
         python3 baselines.py > ${filename}_baseline_output.tsv
 
-    echo A few more minutes...
+    echo The next step can take a long time, even 30 minutes...
     cat ${filename}.txt | python3 reformat_for_tok.py |
         docker run -i mtaril/emtsv emstanza-tok | python3 label_to_column.py |
         docker run -i mtaril/emtsv emstanza-lem |

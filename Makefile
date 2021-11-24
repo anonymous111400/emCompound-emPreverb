@@ -36,6 +36,6 @@ install:
 clean:
 	rm -rf venv scripts/__pycache__ scripts/*/__pycache__
 
-eval:
+evaluate:
 	cd evaluation && $(SHELL) evaluate.sh
 

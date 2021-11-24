@@ -1,5 +1,5 @@
 import sys
-sys.path.append('../preverb')
+sys.path.append('../scripts/preverb')
 
 from more_itertools import split_at
 from word import Word
